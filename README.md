@@ -45,7 +45,7 @@ This project also demonstrates:
 **Screenshots:**
 Landing Page:
 
-![](documentationResources/bus.gif)
+![](documentationResources/homepage.png)
 
 Signing In Page:
 
