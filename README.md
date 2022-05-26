@@ -64,13 +64,16 @@ Seat Selection Page:
 ![](documentationResources/seat selection page.png)
 
 Payment & Confirmation Page:
+
 ![](documentationResources/payment.gif)
 
 Ticket Cancellation Page:
+
 ![](documentationResources/ticket cancellation.png)
 
 Integrated AI Chatbot:
-|[](documentationResources/ai chatbot.png)
+
+![](documentationResources/ai chatbot.png)
 ---
 
 ## Developed With
