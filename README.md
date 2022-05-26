@@ -1,9 +1,9 @@
-# MERN-BUS-APP
-## MFRP (My First Real Project) assigned by Cognizant during Internship
+# MERN-Flight-Booking-Application
+## MFRP (My First Real Project) which was implemented during one of my prefinal year projects
 
-A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
+A complete flight booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
-The Bus ticket application is composed of the following Features:
+The Flight ticket booking app is composed of the following Features:
 
 ### Front-End
 
@@ -17,13 +17,13 @@ The Bus ticket application is composed of the following Features:
 
 * List of cities for users to choose from (starting city & destination city). 
 
-* Getting list of bus's of different companies with various details.
+* Getting list of flight's of different airlines with various details.
 
 * Seat selection page has a very user friendly environment, which also generates dynamic forms for storing data's of passengers.
 
 * Has a Confirmation page, which gets a debit card data using react-credit-cards. This version of the application does not include handling the payment process. 
 
-* Final page has a ticket displaying component, it displays all passenger data and also generates a random number as a transaction ID.
+* Final page has a boarding pass displaying component, it displays all passenger data and also generates a random number as a transaction ID.
 
 ### Back-End
 
@@ -101,22 +101,11 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'MERN-BUS-APP.git'_ repository from GitHub
-
-  ```bash
-  git clone https://github.com/AdityaKumawat97/MERN-BUS-APP.git
-  ```
-
-   _OR USING SSH_
-
-  ```bash
-  git clone git@github.com:AdityaKumawat97/MERN-BUS-APP.git
-  ```
 
 * Install node modules
 
    ```bash
-   cd MERN-BUS-APP
+   cd SWADESHI AIRLINES
    cd frontend
    npm install
    cd..
