@@ -25,6 +25,10 @@ The Flight ticket booking app is composed of the following Features:
 
 * Final page has a boarding pass displaying component, it displays all passenger data and also generates a random number as a transaction ID.
 
+* Ticket Cancellation page will cancel the ticket which was booked.
+
+* Also has an integrated ai chatbot
+
 ### Back-End
 
 * Uses Express js based application for the backend process.
@@ -51,16 +55,22 @@ Signing In Page:
 
 ![](documentationResources/signin.png)
 
-Bus Selection Page:
+Flight Selection Page:
 
-![](documentationResources/bus-page.png)
+![](documentationResources/ticket booking page.png)
 
 Seat Selection Page:
 
-![](documentationResources/seatSelection.gif)
+![](documentationResources/seat selection page.png)
 
 Payment & Confirmation Page:
 ![](documentationResources/payment.gif)
+
+Ticket Cancellation Page:
+![](documentationResources/ticket cancellation.png)
+
+Integrated AI Chatbot:
+|[](documentationResources/ai chatbot.png)
 ---
 
 ## Developed With
