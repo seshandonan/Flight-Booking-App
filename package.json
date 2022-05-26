@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@kommunicate/kommunicate-chatbot-plugin": "^0.0.5",
+    "mongoose": "^6.3.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}

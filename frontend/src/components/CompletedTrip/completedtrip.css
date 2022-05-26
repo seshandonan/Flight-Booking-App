@@ -1,0 +1,104 @@
+.canc {
+    /* border:1px solid white; */
+    height: auto;
+    background-color: #f14c0ae3;
+}
+
+.App-payment {
+    padding: 10px 30px;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid white;
+    background-color: rgba(202, 177, 177, 0.603);
+    border-radius: 5px;
+    margin-bottom:20px;
+    padding-bottom:30px;
+}
+
+.credit-form {
+    margin-top: 31px;
+    max-width: 400px;
+    margin-right: 19px;
+}
+
+.actionButton {
+    margin-top: 15px;
+}
+
+.frm-ctrl {
+    border-radius: 5px;
+    width: 80%;
+    height: 38px;
+    padding: 0px 5px;
+    text-align: center;
+}
+
+.cl1 {
+    float: left;
+    width: 60%;
+}
+
+.columnThree {
+    /* float: right; */
+    width: 80%;
+     padding: 10px; 
+    
+    text-align: center;
+    margin-left: -10px;
+    border: 1px solid rgb(218, 13, 13);
+    background-color: rgba(211, 60, 60, 0.733);
+    height: fit-content;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-bottom:20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btCustoms {
+    width: 40%;
+    margin-left: 290px;
+}
+
+.pPayment {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: larger;
+}
+
+.cvc {
+    width: 57px;
+    margin-left: 27px;
+    text-align: center;
+}
+
+.pt{
+    padding-left:0;
+}
+.usrName{
+    text-transform: capitalize;
+}
+
+.hdng{
+    font-weight: bold;
+}
+
+.hr1{
+    background-color: black;
+    width:38%;
+    position:absolute;
+    left:51%;
+    top:37%;
+    
+}
+.hr2{
+    background-color: black;
+    width:38%;
+    position:absolute;
+    left:51%;
+    top:55%;
+}
+
+.hr3{
+    background-color: rgba(94, 91, 91, 0.685);
+}

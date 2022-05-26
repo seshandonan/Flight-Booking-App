@@ -1,0 +1,17 @@
+table {
+    border: 5px solid rgb(12, 31, 88);
+    width: 1050px;
+    height: 485px;
+    background-color: antiquewhite;
+  }
+    
+  th {
+    border-bottom: 2px solid black;
+    text-align: center;
+    
+  }
+    
+  td {
+    text-align: center;
+    
+  }
