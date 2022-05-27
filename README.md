@@ -1,5 +1,5 @@
 # MERN-Flight-Booking-Application
-## MFRP (My First Real Project) which was implemented during one of my prefinal year projects
+
 
 A complete flight booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
