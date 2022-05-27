@@ -57,23 +57,23 @@ Signing In Page:
 
 Flight Selection Page:
 
-![](documentationResources/ticket booking page.png)
+![](documentationResources/booking.png)
 
 Seat Selection Page:
 
-![](documentationResources/seat selection page.png)
+![](documentationResources/seatselection.png)
 
 Payment & Confirmation Page:
 
-![](documentationResources/payment.gif)
+![](documentationResources/payment.png)
 
 Ticket Cancellation Page:
 
-![](documentationResources/ticket cancellation.png)
+![](documentationResources/cancellation.png)
 
 Integrated AI Chatbot:
 
-![](documentationResources/ai chatbot.png)
+![](documentationResources/aichatbot.png)
 ---
 
 ## Developed With
