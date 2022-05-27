@@ -53,7 +53,7 @@ Landing Page:
 
 Signing In Page:
 
-![](documentationResources/signin.png)
+![](documentationResources/login.png)
 
 Flight Selection Page:
 
